@@ -7,7 +7,7 @@
 ?>
 <?php include_once "header.php"; ?>
 <body>
-  <div class="wrapper">
+  <div class="wrapper" style="max-width:100%; max-height:120%;">
     <section class="chat-area">
       <header>
         <?php 

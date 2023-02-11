@@ -26,6 +26,7 @@
         </div>
       </form>
       <div class="link">Not yet signed up? <a href="index.php">Signup now</a></div>
+      <div class=""><a href="otp.php">Forgot Password</a></div>
     </section>
   </div>
   
